@@ -1,0 +1,101 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/questa
+T_opt
+!s110 1573720230
+V:]@Jk;4Q`]Pjl5k2JUF;F1
+04 17 3 work muliplexer_4_1_tb mux 1
+=1-3ca067c648ed-5dcd10a6-16a-12a0
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+Emuliplexer_4_1
+Z0 w1573719782
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/mux
+Z5 8C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1.vhdl
+Z6 FC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1.vhdl
+l0
+L5
+VbRLIP_8bkzdQnoook?h_P0
+!s100 69?F:86cOaLze2K>:NBe61
+Z7 OL;C;10.6c;65
+32
+Z8 !s110 1573720211
+!i10b 1
+Z9 !s108 1573720211.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1.vhdl|
+Z11 !s107 C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1.vhdl|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Amux
+R1
+R2
+R3
+DEx4 work 14 muliplexer_4_1 0 22 bRLIP_8bkzdQnoook?h_P0
+l16
+L14
+VEGXLmXk6V?<T8OO0kgBnf0
+!s100 @cec:2zh3j0:CF^aIbWLY2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Emuliplexer_4_1_tb
+Z14 w1573720207
+R1
+R2
+R3
+R4
+Z15 8C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1_tb.vhdl
+Z16 FC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1_tb.vhdl
+l0
+L5
+VghXEUH]9kY16n^z;_@WJf2
+!s100 FahVj30T@Ve;g`nbAlPgL0
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1_tb.vhdl|
+Z18 !s107 C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/mux_4_1_tb.vhdl|
+!i113 0
+R12
+R13
+Amux
+R1
+R2
+R3
+DEx4 work 17 muliplexer_4_1_tb 0 22 ghXEUH]9kY16n^z;_@WJf2
+l28
+L11
+VdDS@JUU<iQ7X97];6YNNa3
+!s100 ng:<?@S4VlVCVYhR5^iRS3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12
+R13

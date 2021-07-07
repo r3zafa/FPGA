@@ -1,0 +1,193 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/questasim
+T_opt
+!s110 1573641619
+VB1UN9haUE@^?kFG[XAN]E0
+04 8 6 work madar_tb madar1 1
+=1-3ca067c648ed-5dcbdd92-2fc-970
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1573682573
+V@QEAP8:PlV>fL;kPLgi520
+04 14 9 work async_logic_tb async_and 1
+=11-3ca067c648ed-5dcc7d8c-381-15d8
+R1
+R2
+n@_opt1
+R3
+Easync_logic
+Z4 w1573681981
+Z5 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z8 8C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/async_logic.vhdl
+Z9 FC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/async_logic.vhdl
+l0
+L5
+VX`TNiS?1:FQiJl]6L]CcG2
+!s100 a]43Uc:@Oe=Pb>^eda[iI0
+Z10 OL;C;10.6c;65
+32
+Z11 !s110 1573682563
+!i10b 1
+Z12 !s108 1573682563.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/async_logic.vhdl|
+Z14 !s107 C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/async_logic.vhdl|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Aasync_and
+R5
+R6
+R7
+DEx4 work 11 async_logic 0 22 X`TNiS?1:FQiJl]6L]CcG2
+l18
+L13
+V4LgjkPYiodnKj9binh3MQ0
+!s100 GJR8d_J8oHzGnBjzSM@V>1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Easync_logic_tb
+Z17 w1573682560
+R5
+R6
+R7
+R0
+Z18 8C:\Users\r3zaf\OneDrive - stud.uni-hannover.de\Kurs File 4.Semester\00.Labor_FPGA (ET) ~ 6LP\testing code\vhdl\async_logic_tb.vhdl
+Z19 FC:\Users\r3zaf\OneDrive - stud.uni-hannover.de\Kurs File 4.Semester\00.Labor_FPGA (ET) ~ 6LP\testing code\vhdl\async_logic_tb.vhdl
+l0
+L5
+V7ooa5aobQHnBBn7RTd[4S1
+!s100 `:[YS60[9=Jd;631@i=aJ2
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\r3zaf\OneDrive - stud.uni-hannover.de\Kurs File 4.Semester\00.Labor_FPGA (ET) ~ 6LP\testing code\vhdl\async_logic_tb.vhdl|
+Z21 !s107 C:\Users\r3zaf\OneDrive - stud.uni-hannover.de\Kurs File 4.Semester\00.Labor_FPGA (ET) ~ 6LP\testing code\vhdl\async_logic_tb.vhdl|
+!i113 0
+R15
+R16
+Aasync_and
+R5
+R6
+R7
+DEx4 work 14 async_logic_tb 0 22 7ooa5aobQHnBBn7RTd[4S1
+l26
+L11
+Vigl?lcI`jMbL>zG>O^lSL1
+!s100 Y_GPHFe[kIz7lR4HQz`>b1
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 0
+R15
+R16
+Emadar
+Z22 w1573491800
+R5
+R6
+R7
+R0
+Z23 8C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/circut_test.vhdl
+Z24 FC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/circut_test.vhdl
+l0
+L6
+VeCPnV5:YUaRG81N9V1PXb2
+!s100 A76=FZRH5@7RDi2Vz8JhG0
+R10
+32
+Z25 !s110 1573641601
+!i10b 1
+Z26 !s108 1573641601.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/circut_test.vhdl|
+Z28 !s107 C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/vhdl/circut_test.vhdl|
+!i113 0
+R15
+R16
+Amadar1
+R5
+R6
+R7
+DEx4 work 5 madar 0 22 eCPnV5:YUaRG81N9V1PXb2
+l25
+L18
+VI5:nEd]9TJ2El[NKR_E6i2
+!s100 FMC4cm5G3g0e?b=PdBnYI1
+R10
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 0
+R15
+R16
+Emadar_tb
+Z29 w1573492629
+R5
+R6
+R7
+R0
+Z30 8C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/testbench/circut_test _tb.vhdl
+Z31 FC:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/testbench/circut_test _tb.vhdl
+l0
+L6
+VAMH^bi?AE`V;7?VDQWFTT1
+!s100 Y6_e65<?^T0G6:Pe]`Y4d1
+R10
+32
+R25
+!i10b 1
+Z32 !s108 1573641600.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/testbench/circut_test _tb.vhdl|
+Z34 !s107 C:/Users/r3zaf/OneDrive - stud.uni-hannover.de/Kurs File 4.Semester/00.Labor_FPGA (ET) ~ 6LP/testing code/testbench/circut_test _tb.vhdl|
+!i113 0
+R15
+R16
+Amadar1
+R5
+R6
+R7
+DEx4 work 8 madar_tb 0 22 AMH^bi?AE`V;7?VDQWFTT1
+l33
+L11
+V6=L^[>b0SXjz3E8_kdHHz2
+!s100 CO5M[j2X4n3l_L[@HE=h91
+R10
+32
+R25
+!i10b 1
+R32
+R33
+R34
+!i113 0
+R15
+R16
